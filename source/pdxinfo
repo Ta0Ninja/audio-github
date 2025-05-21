@@ -1,0 +1,7 @@
+name=audio
+author=ta0
+description=an audio recorder viewer =^}
+bundleID=com.ta0ninja.audio
+version=0.47
+buildNumber=1
+imagePath=images/meta
